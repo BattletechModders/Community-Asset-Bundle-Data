@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<CabRepoData>
+	<minVersion>1.2.0</minVersion>
+	<Repos>
+		<CabRepo>
+			<cacheSubPath>cabIs</cacheSubPath>
+			<name>CAB-IS</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Mech.git</repoUrl>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabClan</cacheSubPath>
+			<name>CAB-Clan</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-Mech.git</repoUrl>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabMisc</cacheSubPath>
+			<name>CAB-Misc</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Miscellaneous.git</repoUrl>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabTank</cacheSubPath>
+			<name>CAB-Tank</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundles-Tanks.git</repoUrl>
+		</CabRepo>
+	</Repos>
+</CabRepoData>
