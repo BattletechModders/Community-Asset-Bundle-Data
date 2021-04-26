@@ -22,5 +22,10 @@
 			<name>CAB-Tank</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundles-Tanks.git</repoUrl>
 		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabCU</cacheSubPath>
+			<name>CAB-CU</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-CustomUnits.git</repoUrl>
+		</CabRepo>
 	</Repos>
 </CabRepoData>
