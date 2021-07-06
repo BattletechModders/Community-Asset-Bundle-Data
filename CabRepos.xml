@@ -20,7 +20,7 @@
 		<CabRepo>
 			<cacheSubPath>cabTank</cacheSubPath>
 			<name>CAB-Tank</name>
-			<repoUrl>https://github.com/CMiSSioN/Community-Asset-Bundles-Tanks.git</repoUrl>
+			<repoUrl>https://github.com/CMiSSioN/Community-Asset-Bundle-Tanks.git</repoUrl>
 		</CabRepo>
 		<CabRepo>
 			<cacheSubPath>cabCU</cacheSubPath>
