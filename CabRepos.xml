@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <CabRepoData>
-	<minVersion>1.2.0</minVersion>
+	<minVersion>1.2.1</minVersion>
+	<updateUrl>https://discourse.modsinexile.com/t/community-assests-bundle-cab/115</updateUrl>
 	<Repos>
 		<CabRepo>
 			<cacheSubPath>cabIs</cacheSubPath>
