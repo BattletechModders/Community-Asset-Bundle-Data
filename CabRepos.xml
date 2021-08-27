@@ -1,32 +1,37 @@
 <?xml version="1.0" ?>
 <CabRepoData>
-	<minVersion>1.2.1</minVersion>
+	<minVersion>1.2.2</minVersion>
 	<updateUrl>https://discourse.modsinexile.com/t/community-assests-bundle-cab/115</updateUrl>
 	<Repos>
 		<CabRepo>
 			<cacheSubPath>cabIs</cacheSubPath>
 			<name>CAB-IS</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Mech.git</repoUrl>
+			<branch>master</branch>
 		</CabRepo>
 		<CabRepo>
 			<cacheSubPath>cabClan</cacheSubPath>
 			<name>CAB-Clan</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-Mech.git</repoUrl>
+			<branch>master</branch>
 		</CabRepo>
 		<CabRepo>
 			<cacheSubPath>cabMisc</cacheSubPath>
 			<name>CAB-Misc</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Miscellaneous.git</repoUrl>
+			<branch>master</branch>
 		</CabRepo>
 		<CabRepo>
 			<cacheSubPath>cabTank</cacheSubPath>
 			<name>CAB-Tank</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundles-Tanks.git</repoUrl>
+			<branch>master</branch>
 		</CabRepo>
 		<CabRepo>
 			<cacheSubPath>cabCU</cacheSubPath>
 			<name>CAB-CU</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-CustomUnits.git</repoUrl>
+			<branch>master</branch>
 		</CabRepo>
 	</Repos>
 </CabRepoData>
