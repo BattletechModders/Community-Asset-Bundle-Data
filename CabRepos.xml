@@ -42,7 +42,7 @@
 			<cacheSubPath>cab3025</cacheSubPath>
 			<name>CAB-3025</name>
 			<repoUrl>https://github.com/BattletechModders/CAB-3025.git</repoUrl>
-			<branch>master</branch>
+			<branch>main</branch>
 			<required3025Only>true</required3025Only>
 		</CabRepo>
 	</Repos>
