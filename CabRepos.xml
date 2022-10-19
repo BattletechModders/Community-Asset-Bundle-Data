@@ -45,5 +45,12 @@
 			<branch>master</branch>
 			<required3025Only>true</required3025Only>
 		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabmap</cacheSubPath>
+			<name>CAB-Maps</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Maps.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>false</required3025Only>
+		</CabRepo>
 	</Repos>
 </CabRepoData>
