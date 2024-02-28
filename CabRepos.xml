@@ -4,16 +4,44 @@
 	<updateUrl>https://discourse.modsinexile.com/t/community-assests-bundle-cab/115</updateUrl>
 	<Repos>
 		<CabRepo>
-			<cacheSubPath>cabIs</cacheSubPath>
-			<name>CAB-IS</name>
-			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Mech.git</repoUrl>
+			<cacheSubPath>cab3025</cacheSubPath>
+			<name>CAB-3025</name>
+			<repoUrl>https://github.com/BattletechModders/CAB-3025.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>true</required3025Only>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabIsStarLeague</cacheSubPath>
+			<name>CAB-IS-StarLeague</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-StarLeague.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>true</required3025Only>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabIsClanInvasion</cacheSubPath>
+			<name>CAB-IS-ClanInvasion</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-ClanInvasion.git</repoUrl>
 			<branch>master</branch>
 			<required3025Only>false</required3025Only>
 		</CabRepo>
 		<CabRepo>
-			<cacheSubPath>cabClan</cacheSubPath>
-			<name>CAB-Clan</name>
-			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-Mech.git</repoUrl>
+			<cacheSubPath>cabIsCustoms</cacheSubPath>
+			<name>CAB-IS-Customs</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Customs.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>false</required3025Only>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabClanGoldenCentury</cacheSubPath>
+			<name>CAB-Clan-GoldenCentury</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-GoldenCentury.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>false</required3025Only>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabClanModern</cacheSubPath>
+			<name>CAB-Clan-Modern</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-Modern.git</repoUrl>
 			<branch>master</branch>
 			<required3025Only>false</required3025Only>
 		</CabRepo>
@@ -39,13 +67,6 @@
 			<required3025Only>false</required3025Only>
 		</CabRepo>
 		<CabRepo>
-			<cacheSubPath>cab3025</cacheSubPath>
-			<name>CAB-3025</name>
-			<repoUrl>https://github.com/BattletechModders/CAB-3025.git</repoUrl>
-			<branch>master</branch>
-			<required3025Only>true</required3025Only>
-		</CabRepo>
-		<CabRepo>
 			<cacheSubPath>cabmap</cacheSubPath>
 			<name>CAB-Maps</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Maps.git</repoUrl>
@@ -53,4 +74,16 @@
 			<required3025Only>false</required3025Only>
 		</CabRepo>
 	</Repos>
+	<DeprecatedRepos>
+		<DeprecatedRepo>
+			<cacheSubPath>cabIs</cacheSubPath>
+			<name>CAB-IS</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Mech.git</repoUrl>
+		</DeprecatedRepo>
+		<DeprecatedRepo>
+			<cacheSubPath>cabClan</cacheSubPath>
+			<name>CAB-Clan</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-Clan-Mech.git</repoUrl>
+		</DeprecatedRepo>
+	</DeprecatedRepos>
 </CabRepoData>
