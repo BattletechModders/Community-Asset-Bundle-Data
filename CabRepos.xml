@@ -25,6 +25,20 @@
 			<required3025Only>false</required3025Only>
 		</CabRepo>
 		<CabRepo>
+			<cacheSubPath>cabIsCivilWar</cacheSubPath>
+			<name>CAB-IS-CivilWar</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-CivilWar.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>false</required3025Only>
+		</CabRepo>
+		<CabRepo>
+			<cacheSubPath>cabIsDarkAge</cacheSubPath>
+			<name>CAB-IS-DarkAge</name>
+			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-DarkAge.git</repoUrl>
+			<branch>master</branch>
+			<required3025Only>false</required3025Only>
+		</CabRepo>
+		<CabRepo>
 			<cacheSubPath>cabIsCustoms</cacheSubPath>
 			<name>CAB-IS-Customs</name>
 			<repoUrl>https://github.com/BattletechModders/Community-Asset-Bundle-IS-Customs.git</repoUrl>
